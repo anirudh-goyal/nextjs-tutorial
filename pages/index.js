@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Does this deployment really work?</a>
+          Does this deployment really work?
         </h1>
 
         <p className={styles.description}>
